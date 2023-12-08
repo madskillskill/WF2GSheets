@@ -1,0 +1,10 @@
+last_directory = 'sensitive/'
+csv_file = ''
+json_file = ''
+google_sheet_name = ''
+
+accept_button = ''
+verify_button = ''
+compare_button = ''
+export_button = ''
+close_button = ''
