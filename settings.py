@@ -17,7 +17,7 @@ selected_columns = Variable()
 
 ###
 
-last_directory.set('sensitive/')
+last_directory.set('sensitive')
 csv_file.set('')
 json_file.set('')
 google_sheet_name.set('VIII Гордеевский фестиваль')
